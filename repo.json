@@ -1,7 +1,7 @@
 {
     "spec":"1.0",
     "repotype":"purekfdextended",
-    "name": "PureKFD",
+    "name": "PureKFD With TrollStore Patch",
     "description": "Tweak repo specialized for PureKFD!",
     "icon": "icons/icon.png",
     "categorized":true,
@@ -34,6 +34,18 @@
             "path": "pkgs/uwu.lrdsnow.accent.purekfd",
             "screenshots":[],
             "category":"Theming"
+        },
+        {
+            "name": "TrollStore Patch",
+            "bundleid": "com.troll.helperpatch",
+            "author": "ChickenChunk579",
+            "description": "Fixes trollstore error 1",
+            "version": "1.0",
+            "icon": "icons/color.png",
+            "banner":"icons/colorBanner1.png",
+            "path": "pkgs/uwu.lrdsnow.accent.purekfd",
+            "screenshots":[],
+            "category":"TrollStore"
         },
         {
             "name": "SpringColors",
